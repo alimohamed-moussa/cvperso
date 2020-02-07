@@ -6,7 +6,7 @@ class Skills extends Component {
     constructor(props){
         super(props);
         this.state={
-        'competences':['PHP','NODEJS', 'DEVELOPPEMENT WORDPRESS', 'HTML5/CSS3', 'JAVASCRIPT','REACT JS', 'BOOTSTRAP', 'MONGODB', 'MYSQL', 'POSTGRESQL']
+        'competences':['REACT JS', 'NODEJS', 'PHP','DEVELOPPEMENT WORDPRESS (Developpement Back + Front)', 'HTML5/CSS3', 'JAVASCRIPT', 'BOOTSTRAP', 'MONGODB', 'MYSQL', 'POSTGRESQL']
         };
     }
 

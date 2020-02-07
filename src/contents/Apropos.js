@@ -8,15 +8,9 @@ class About extends Component {
                 <h1 className="subtopic">Qui suis je</h1>
                 <h4>Bonjour,</h4>
                 <h1>Je m'appelle Ali MOHAMED</h1>
-                <h3>Full Stack Web <u>Developer</u> | UI/UX <u>Designer</u></h3>
+                <h3>Full Stack Web <u>Developpeur</u> | <u></u></h3>
                 <br></br>
-                <p>I started my journey in the world of computers from an young age,
-                now I’m 20 years old, Pursuing my Software Engineering Degree in
-                VIT University Vellore.  Web development is my center of interest, i always
-                love the idea of cross-platform development, 1-n one code base deploy into almost
-                any platform, which web technology like Javascript enables me to do. I also like
-                creating Interactive UI components for better UX  and share those desgin and codes
-                to the world through Github, Codepen and Instagram.
+                <p>
                 </p>
             </div>
         )

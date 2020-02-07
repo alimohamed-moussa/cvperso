@@ -11,7 +11,7 @@ class ExperienceItem1 extends Component {
         return ( 
             <div className="xp">
                 <p>o	Développement d’un thème WordPress pour la gestion des contenus de la plateforme</p>
-                <p>o	Développement et intégration au thème de plusieurs moteurs de recherche multicritères avec géolocalisation du genre Airbnb avec des solutions open source (OpenStreetMap, API LeafLet, JavaScript, PHP) </p> 
+                <p>o	Développement et intégration au thème de plusieurs moteurs de recherche multicritères avec géolocalisation du genre Airbnb avec des solutions Open Source (OpenStreetMap, API LeafLet, JavaScript, PHP) </p> 
                 <p>o	Création de blocks Gutenberg avec ReactJs</p>
                 <p>o	Implémentation de l’authentification des utilisateurs avec l’annuaire LDAP </p>
                 <p>o	Intégration des maquettes graphiques avec Bootstrap V4, JavaScript, JQuery, CSS3, HTML5</p>

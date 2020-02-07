@@ -89,6 +89,13 @@ h1,h2,h3,h4,p{
   display: flex;
   bottom: 60px;
 }
+.footer
+{
+  position: absolute;
+  margin-top: 20px;
+  display: flex;
+  bottom: 20px;
+}
 .social-icon
 {
   padding-right: 30px;
