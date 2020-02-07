@@ -14,6 +14,7 @@ class Realisations extends Component {
         return (
             <div className="condiv skills">
                 <h1 className="subtopic">Mes Réalisations</h1>
+                <p>En cours de réalisation</p>
                 
             </div>
         )
