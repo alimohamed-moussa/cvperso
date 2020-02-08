@@ -130,9 +130,9 @@ h1,h2,h3,h4,p{
 
 @media only screen and (max-width: 480px) {
   :root {
-    --fontsize-nav:1rem;
+    --fontsize-nav:0.75rem;
     --sidebar-flex:0;
-    --typing-font:2rem;
+    --typing-font:0.90rem;
   }
   .App
   {
@@ -140,13 +140,13 @@ h1,h2,h3,h4,p{
   }
   .sidebar
   {
-    padding: 30px;
+    padding: 0px;
     background: rgb(238,103,143);
     background: linear-gradient(90deg, rgba(238,103,143,1) 50%, rgba(132,124,252,1) 80%);
   }
   .condiv
   {
-    padding: 50px ;
+    padding: 0px !important;
   }
   nav ul
   {
@@ -155,7 +155,7 @@ h1,h2,h3,h4,p{
     
   }
   nav {
-    padding-top: 0px !important;
+    padding:0px 0px 0px 0px !important;
   }
   nav ul li
   {
@@ -166,14 +166,21 @@ h1,h2,h3,h4,p{
     left:0;
     width: 100vw;
     display: flex;
-    justify-content: space-around;
-    bottom: 30px;
+    justify-content: flex-end;
+    bottom: 50px;
   }
   .social i
   {
     padding-right: 0px;
   }
+  .profilepic {
+    border-radius: 50%;
+    width: 160px;
+    margin: 20px;
+  }
   .footer {
-    display: none;
+    padding-top: 20px;
+    font-size:x-small;
+    margin-bottom:10px;
   }
 }

@@ -11,7 +11,7 @@ class Accueil extends Component {
             <div className="condiv home">
                 <img src={profilepic} className="profilepic"></img>
                 <ReactTypingEffect className="typingeffect" text={[
-                    "Je m'appelle Ali MOHAMED",'je suis developpeur web', 'spécialisé sur NodeJS, ReactJS et WordPress']} speed={100} eraseDelay={700}/>
+                    "Je m'appelle Ali MOHAMED",'je suis developpeur web', 'spécialisé sur NodeJS, ReactJS, WordPress']} speed={100} eraseDelay={700}/>
                 <Social />
                 <Footer />
             </div>

@@ -5,7 +5,7 @@ class Footer extends Component {
     render() { 
         return ( 
             <div className="footer">
-                <span>Propulsé par ReactJS - Réalisé par Ali MOHAMED MOUSSA</span>
+                <span>Propulsé par ReactJS - Réalisé par Ali MOHAMED</span>
             </div>
          );
     }
