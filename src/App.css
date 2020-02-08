@@ -136,7 +136,7 @@ h1,h2,h3,h4,p{
   }
   .App
   {
-    flex-direction: column;
+    flex-direction: row;
   }
   .sidebar
   {
@@ -172,5 +172,8 @@ h1,h2,h3,h4,p{
   .social i
   {
     padding-right: 0px;
+  }
+  .footer {
+    display: none;
   }
 }
