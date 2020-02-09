@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { BrowserRouter as Router,
-  Route,
-  Link } from "react-router-dom";
+  Route
+} from "react-router-dom";
 import Navbar from './components/Navbar';
 import Accueil from './contents/Accueil';
 import Apropos from './contents/Apropos';

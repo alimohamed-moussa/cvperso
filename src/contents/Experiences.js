@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Experiencecard from '../components/Experiencecard';
-import ExperienceItem from '../components/experienceItem';
 
 
 class Experiences extends Component {

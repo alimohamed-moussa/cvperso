@@ -15,8 +15,8 @@ class Skills extends Component {
             <div className="condiv skills">
                 <h1 className="subtopic">Mes Compétences</h1>
                 <ul>
-                    {this.state.competences.map((value)=>{
-                        return <li>{value}</li>
+                    {this.state.competences.map((value, index)=>{
+                        return <li key={index}>{value}</li>
                     })}
                 </ul>
             </div>
